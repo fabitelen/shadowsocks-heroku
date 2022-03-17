@@ -1,5 +1,5 @@
-# Personal VPN
-## Shadowsocks+V2Ray-plugin
+# Personal VPNhabit
+## Shadowsocks+V2Ray-pluginhabit
 
 Click the button below to deploy to Heroku
 
